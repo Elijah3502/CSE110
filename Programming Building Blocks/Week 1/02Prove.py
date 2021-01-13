@@ -14,6 +14,6 @@ get_verb_1 = input("Verb : ")
 get_verb_2 = input("Verb : ")
 
 print("Your Story is : ")
-print("The other day, I was really in trouble. It all started when I saw a very" + get_adj + " " + get_animal + " " + get_verb + "down the hallway. \n" + " " + 
-get_exc + "!"+" I yelled. But all I could think to do was to [verb] over and over. Miraculously,that caused it to stop, but not before it tried to" +  get_verb_1 +
-"right in front of my family.")
+print("The other day, I was really in trouble. It all started when I saw a very " + get_adj + " " + get_animal + " " + get_verb + " down the hallway. \n" + " " + 
+get_exc + "!"+" I yelled. But all I could think to do was to "+ get_verb_1 + " over and over. Miraculously,that caused it to stop, but not before it tried to " +  get_verb_2 +
+" right in front of my family.")
